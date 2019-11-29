@@ -1,4 +1,5 @@
-Runtime/
-install.lock
-Application/Common/Conf/db.php
-node_modules/
+# 过滤所有，只放开REDEME.md #
+*
+!.gitignore
+!README.md
+!git_push.bat
